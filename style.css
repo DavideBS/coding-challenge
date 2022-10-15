@@ -1,0 +1,88 @@
+
+.Background{
+  background-image: url(background.jpg);
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+
+.Boxnero{
+  background: rgba(0, 0, 0, 0.7);
+  width: 1300px;
+  margin: auto;
+  border-radius: 20pX;
+  padding-bottom: 70px;
+}
+
+.rowcentrale{
+  text-align: center;
+}
+
+#imgheader{
+  width:160px;
+  margin-top: 50px;
+}
+
+#h2header{
+  color: #00b347;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+
+.navCTA{
+  background: #00b347;
+  width: 950px;
+  margin-left: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+.utente{
+
+  text-align: left;
+  margin-left: 150px;
+}
+
+#prodotto{
+  margin-top: 20px;
+  font-size: 28PX;
+}
+
+
+.utente > p{
+  color: white;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  font-family: sans-serif;
+}
+
+
+.utente > span{
+  margin-top: 2px;
+  border-radius: 3px;
+}
+
+#barraarancio{
+  background-color: orange;
+  padding-left: 300px;
+}
+
+#barraverde{
+  background-color: #00b347;
+  padding-left: 600px;
+}
+
+#barrarossa{
+  background-color: red;
+  padding-left: 150px;
+}
+
+
+
+*{
+  font-family: sans-serif;
+  margin: 0px;
+}
